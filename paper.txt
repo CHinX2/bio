@@ -1,8 +1,0 @@
-Oil Layer Identification by AI Technology with Well Logging
-- Published in Petroleum Geology of Taiwan No.45 p.273-287 
-- Dec, 2021
-
----
-
-Weakly-Supervised Deep Image Hashing based on Cross-Modal Transformer 
-- Aug, 2022
