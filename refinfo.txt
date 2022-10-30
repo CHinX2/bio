@@ -1,0 +1,8 @@
+[type 'string' is not assignable to type 'str1' | 'str2' | undefined]
+https://github.com/microsoft/TypeScript/issues/11465
+https://stackoverflow.com/questions/71074649/styled-components-w-typescript-missing-type-for-theme-variable
+
+[tree struct]
+https://github.com/naisutech/react-tree/tree/master/src
+https://github.com/primefaces/primereact/blob/master/components/lib/treenode/treenode.d.ts
+https://github.com/primefaces/primereact/blob/master/components/lib/tree/Tree.js
