@@ -6,3 +6,7 @@ https://stackoverflow.com/questions/71074649/styled-components-w-typescript-miss
 https://github.com/naisutech/react-tree/tree/master/src
 https://github.com/primefaces/primereact/blob/master/components/lib/treenode/treenode.d.ts
 https://github.com/primefaces/primereact/blob/master/components/lib/tree/Tree.js
+
+[toggle active]
+https://stackoverflow.com/questions/68425366/toggle-active-class-to-buttons-when-clicked
+https://stackoverflow.com/questions/62260561/how-do-i-deselect-an-active-list-item-when-i-click-on-activate-another-one
