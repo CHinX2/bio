@@ -10,3 +10,28 @@ https://github.com/primefaces/primereact/blob/master/components/lib/tree/Tree.js
 [toggle active]
 https://stackoverflow.com/questions/68425366/toggle-active-class-to-buttons-when-clicked
 https://stackoverflow.com/questions/62260561/how-do-i-deselect-an-active-list-item-when-i-click-on-activate-another-one
+
+[Jest]
+class mock: https://jestjs.io/docs/es6-class-mocks
+- jest.mock('./class')
+- beforeEach(() => {
+    class.mockClear();
+  })
+
+https://andybberry.medium.com/testing-dom-mutations-with-jest-13d62ee5679b
+- DOMParser() :  convert an HTML string into a DOM document
+- document.querySelectorAll('span');
+
+mock: 把難以測試的element替換掉 e.g.searchbox
+https://pjchender.dev/react/react-doc-testing/
+
+console.log(prettyDOM(heading));
+data-testid
+https://pjchender.dev/ironman-2021/ironman-2021-day29/
+
+https://ithelp.ithome.com.tw/articles/10242730
+- jest.spyOn([module], [method])
+- module.method = jest.fn( /do sth/ )
+- module.method.mochRestored()
+
+https://stackoverflow.com/questions/43245040/how-can-i-use-jest-to-spy-on-a-method-call
